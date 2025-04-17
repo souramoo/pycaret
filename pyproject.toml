@@ -52,7 +52,7 @@ dependencies = [
   "numpy>=1.21, <1.27",
   "pandas<2.2",
   "jinja2>=3",
-  "scipy>=1.6.1,<=1.11.4",  # to fix later (
+  #"scipy>=1.6.1,<=1.11.4",  # to fix later (
   "joblib>=1.4.2,<1.5",
   "scikit-learn<1.5",
   "pyod>=1.1.3",
